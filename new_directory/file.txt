@@ -1,0 +1,18 @@
+.|dir||4096
+..|dir||4096
+.file.txt.swp|file|swp|1024
+.git|dir|git|4096
+.idea|dir|idea|4096
+README.md|file|md|35
+array_1.php|file|php|86
+content.php|file|php|693
+discography.php|file|php|6090
+file_task_1.php|file|php|567
+file_task_2.php|file|php|257
+function.php|file|php|4010
+index.php|file|php|32
+new_directory|dir||4096
+pexels-photo-110241.jpeg|file|jpeg|6606224
+string.php|file|php|1988
+string1.php|file|php|1945
+Безымянная папка|dir||4096
